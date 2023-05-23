@@ -1,0 +1,39 @@
+body {
+    background-color: #FFFFFF;
+}
+p {
+    margin: 10px;
+    border: 2px solid #CCCCCC;
+    padding: 5px;
+    box-shadow: -2px -2px 2px grey;
+    background-color: #EEEEEE;
+    font-size : 25px;
+    font-family: KaiTi;
+}
+video {
+    margin: 10px;
+    border: 2px solid #CCCCCC;
+    padding: 5px;
+    box-shadow: -2px -2px 2px grey;
+    width:90%;
+    height:auto;
+    background-color: #EEEEEE;
+}
+table {
+    margin: 10px;
+    border: 0px solid white;
+    border-radius: 5px;
+    background-color: #EFEFEF;
+}
+th {
+    font-weight: bold;
+    background-color: #DFDFDF;
+    border-bottom: 2px solid grey;
+    border-right: 2px solid grey;
+    width: 30px;
+    padding: 10px;
+}
+td {
+    border-bottom: 2px solid grey;
+    padding: 10px;
+}
